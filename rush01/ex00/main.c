@@ -1,6 +1,6 @@
 void	ft_print_error(void);
-int		rush(char *str);
-int		ft_validate_input(char *str);
+int	rush(char *str);
+int	ft_validate_input(char *str);
 
 int	main(int argc, char *argv[])
 {
