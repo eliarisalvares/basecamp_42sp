@@ -35,10 +35,9 @@
 |Basecamp Exam 01 |    | 16%
 |Basecamp Final Exam 00 |  | 52%
 
-## Highest Badges
+## Badges
 
 ![image](https://user-images.githubusercontent.com/85964972/132144909-5e53c0ad-bc68-4c4e-ab79-dd9475a00e19.png)
-![image](https://user-images.githubusercontent.com/85964972/132144946-a566a264-69e1-425e-8b2b-a827b8dc034c.png)
 ![image](https://user-images.githubusercontent.com/85964972/132144963-6363e7d2-40e9-4457-a03c-a3afc9f5030d.png)
 
 
