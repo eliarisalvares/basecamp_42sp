@@ -37,5 +37,21 @@
 
 ## Badges
 
+### Helper
+
+![image](https://user-images.githubusercontent.com/85964972/132145033-524d837d-3a96-454e-ab19-68a5cdb0cb06.png)
+
+### Community
+
+![image](https://user-images.githubusercontent.com/85964972/132145050-36f6529b-495f-40d8-b02c-33311071d7b8.png)
+
+### Explorer
+
+![image](https://user-images.githubusercontent.com/85964972/132145056-8e094749-2da2-4388-9172-f9afd9ec9fb4.png)
+
+### Tribe
+
+![image](https://user-images.githubusercontent.com/85964972/132145065-e2c0d16e-5909-41eb-981e-307cbe562366.png)
+
 
 
