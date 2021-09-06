@@ -31,6 +31,8 @@
 |C04      | Rigor, Unix, Algorithms & AI| 77/100
 |C05      | Rigor, Unix, Algorithms & AI| 50/100
 |C06      | Rigor, Unix, Algorithms & AI| 70/100
+|Basecamp Rush00 | Rigor, Unix, Group & interpersonal, Algorithms & AI | 120/100
+|Basecamp Rush01 | Rigor, Unix, Group & interpersonal, Algorithms & AI | 58/100
 |Basecamp Exam 00 |    | 52% 
 |Basecamp Exam 01 |    | 16%
 |Basecamp Final Exam 00 |  | 52%
