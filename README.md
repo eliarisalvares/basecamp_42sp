@@ -1,4 +1,4 @@
-# basecamp_42sp
+# 42 São Paulo's Basecamp
 
 :student: This repository contains coding developed at 42sp's C bootcamp (also known as Piscine or Basecamp), in june of 2021.
 
