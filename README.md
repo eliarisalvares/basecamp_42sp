@@ -37,7 +37,5 @@
 
 ## Badges
 
-![image](https://user-images.githubusercontent.com/85964972/132144909-5e53c0ad-bc68-4c4e-ab79-dd9475a00e19.png)
-![image](https://user-images.githubusercontent.com/85964972/132144963-6363e7d2-40e9-4457-a03c-a3afc9f5030d.png)
 
 
